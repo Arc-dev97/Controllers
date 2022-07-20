@@ -1,2 +1,2 @@
 # Controllers
-Implementation of different tyes of controllers
+Implementation of different types of controllers
