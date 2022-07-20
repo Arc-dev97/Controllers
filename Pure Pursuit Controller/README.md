@@ -34,4 +34,4 @@ def run(self, xi=18, yi=0, ti=pi/2, L=2.2,v=0):
 ```
 4. Run the code:
 
-![circle](/images/circle.png)
+![circle](images/circle.png)
